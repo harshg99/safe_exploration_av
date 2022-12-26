@@ -1,0 +1,6 @@
+[submodule "DOPE-DoublyOptimisticPessimisticExploration"]
+	path = DOPE-DoublyOptimisticPessimisticExploration
+	url = https://github.com/archanabura/DOPE-DoublyOptimisticPessimisticExploration.git
+[submodule "highway-env"]
+	path = highway-env
+	url = https://github.com/eleurent/highway-env.git
